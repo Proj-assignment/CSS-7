@@ -1,0 +1,33 @@
+#design {
+  margin-left: 70px;
+}
+#hovernav a {
+  position: absolute;
+  left: -80px;
+  transition: 0.3s;
+  padding: 15px;
+  width: 100px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+#hovernav a:hover {
+  left: 0;
+}
+#html {
+  top: 20px;
+  background-color: #04aa6d;
+}
+#css {
+  top: 80px;
+  background-color: #2196f3;
+}
+#java {
+  top: 140px;
+  background-color: #f44336;
+}
+#bootstrap {
+  top: 200px;
+  background-color: #555;
+}
